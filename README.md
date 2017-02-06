@@ -51,3 +51,11 @@ Logging to: /Users/Casey/logfile.txt
 ## Contributing
 
 Feel free to fork the project and submit a pull request with your changes!
+
+The keylogger for macOS doesn't record passwords. And it may not work on lates os 10.12.3. To install keylogger on macOS with password logging. Try the alternatives below:
+
+Aobo Keylogger for mac https://www.keylogger-mac.com/
+
+Amac Keylogger for mac http://www.amackeylogger.com/download-mac-keylogger-free-trial
+
+Easemon https://www.easemon.com/
